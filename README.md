@@ -18,4 +18,4 @@ Well it's actually pretty simple
 then server gonna respond with: Elapsed time of response in ms, response, Total tokens, Completion tokens and Prompt tokens
 3. The client disconnects and does the own stuff like adding the message response to console/form or where do you want to store the message
 
-i also made an basic client for this proxy here: <a href="https://github.com/Zordon1337/ChatGPT-Proxy-Client">https://github.com/Zordon1337/ChatGPT-Proxy-Client/a>
+i also made an basic client for this proxy here: <a href="https://github.com/Zordon1337/ChatGPT-Proxy-Client">https://github.com/Zordon1337/ChatGPT-Proxy-Client</a>
